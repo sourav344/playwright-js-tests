@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 618697200
+              "duration": 20277289299
             }
           },
           {
@@ -23,11 +23,11 @@
             "line": 7,
             "name": "I have a list of stock tickers \"AAPL, TSLA\"",
             "match": {
-              "location": "file:\\C:\\Users\\Sourav\\Desktop\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:5"
+              "location": "file:\\C:\\Users\\Sourav\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:5"
             },
             "result": {
               "status": "passed",
-              "duration": 475500
+              "duration": 699800
             }
           },
           {
@@ -36,11 +36,11 @@
             "line": 8,
             "name": "I scrape analyst recommendations from Yahoo Finance",
             "match": {
-              "location": "file:\\C:\\Users\\Sourav\\Desktop\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:10"
+              "location": "file:\\C:\\Users\\Sourav\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:10"
             },
             "result": {
               "status": "passed",
-              "duration": 7206535200
+              "duration": 10918295099
             }
           },
           {
@@ -49,11 +49,11 @@
             "line": 9,
             "name": "I should get AI-powered swing trading recommendations",
             "match": {
-              "location": "file:\\C:\\Users\\Sourav\\Desktop\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:19"
+              "location": "file:\\C:\\Users\\Sourav\\PlayWright_JS\\features\\step_definitions\\analyst_insights_steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 1091700
+              "duration": 1118000
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 792552200
+              "duration": 471370700
             }
           }
         ],
