@@ -1,0 +1,17 @@
+{
+  "name": "yahoo-finance-swing-trading",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test": "cucumber-js --config cucumber.cjs",
+    "report": "node reporter.js",
+    "test:report": "npm test && npm run report"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^9.1.0",
+    "playwright": "^1.42.0"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^5.5.0"
+  }
+}
